@@ -80,7 +80,7 @@ body_a = f"""<div class="card">{deco_a}
  <div class="step"><b>2</b>Upiši svoje ime<small>Type your name</small></div>
  <div class="step"><b>3</b>Odaberi fotke<small>Pick your photos</small></div>
 </div>
-<div class="foot"><span class="script">hvala vam!</span>iPhone: videe učitaj kroz Safari</div>
+<div class="foot"><span class="script">Hvala vam!<svg width="5.2mm" height="5.2mm" viewBox="0 0 24 24" style="vertical-align:-0.8mm;margin-left:1mm"><path fill="#d62f3a" d="M12 21s-7.5-4.6-10-9.3C.4 8.4 2.3 4.5 6 4.5c2.1 0 3.4 1.1 4.2 2.3h.1l1.7 1.6 1.7-1.6h.1c.8-1.2 2.1-2.3 4.2-2.3 3.7 0 5.6 3.9 4 7.2C19.5 16.4 12 21 12 21z"/></svg></span>iPhone: videe učitaj kroz Safari</div>
 </div>"""
 
 # ===== Variant B: festive confetti / party =====
