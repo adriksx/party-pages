@@ -48,7 +48,7 @@ def page(css, body):
 css_a = """
 .card { background: radial-gradient(120% 70% at 50% 0%, #fff7f2 0%, #fbe3da 55%, #f6cfc4 100%); color: #3a2c2a }
 .eyebrow { margin-top: 15mm; font-size: 2.6mm; letter-spacing: .45em; font-weight: 600; color: #b5654f; text-transform: uppercase }
-h1 { font-size: 13mm; line-height: 1; margin-top: 1.5mm; color: #8c3f3a }
+h1 { font-family: 'Cormorant Garamond', serif !important; font-style: italic; font-weight: 600; font-size: 14.5mm; line-height: 1; margin-top: 1.5mm; color: #8c3f3a }
 .tag { font-size: 6.2mm; font-weight: 600; margin-top: 1mm; color: #3a2c2a }
 .tag small { display:block; font-family: Montserrat; font-size: 2.6mm; font-weight: 500; color: #9a6a60; margin-top: .6mm; letter-spacing: .02em }
 .qrzone { margin-top: 5mm; position: relative }
@@ -56,7 +56,7 @@ h1 { font-size: 13mm; line-height: 1; margin-top: 1.5mm; color: #8c3f3a }
 .badge { position: absolute; top: -3.4mm; right: 22mm; width: 11mm; height: 11mm; border-radius: 50%; background: #8c3f3a; color: #fff; display:flex; align-items:center; justify-content:center; transform: rotate(12deg); box-shadow: 0 1.5mm 3mm rgba(0,0,0,.2) }
 .step b { background: #8c3f3a; color: #fff }
 .foot { position: absolute; bottom: 7mm; left: 0; right: 0; font-size: 2.3mm; color: #9a6a60 }
-.foot .script { font-size: 6mm; color: #8c3f3a; display:block; margin-bottom: .6mm }
+.foot .script { font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 600; font-size: 6.2mm; color: #8c3f3a; display:block; margin-bottom: .6mm }
 """
 deco_a = f"""
 <div class="abs" style="top:-9mm;left:-10mm">{leaf_sprig('#9bb08f', '30mm', '30mm', flip=True)}</div>
