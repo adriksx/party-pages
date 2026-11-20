@@ -6,6 +6,7 @@ Each event has its own folder with an `index.html`; the button links to that eve
 | Event | Page | Expires |
 |---|---|---|
 | Marko & Ana | `/marko-ana/` | 2026-11-19 |
+| Ivana 40! (demo, vrtna zabava) | `/ivana-40/` | upload link not set yet |
 
 To add an event: copy `marko-ana/` to a new folder, change the names, text and upload link.
 
